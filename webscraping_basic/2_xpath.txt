@@ -1,5 +1,9 @@
 /학교/학년/반/학생[1]
-/html/body/div/span/a...
+//*[@학번="1-1-5"]
+
+
+/html/body/div/div/div/span/a...
+//*[@id="login"]
 
 
 <학교 이름 ="지은고등학교">
